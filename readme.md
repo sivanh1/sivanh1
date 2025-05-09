@@ -76,7 +76,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivanh1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sivanh1&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesh-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanh1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
