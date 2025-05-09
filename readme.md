@@ -17,10 +17,10 @@
   <a href="mailto:sivaneshdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-dev.sivanesh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sivanesh" target="_blank">
+  <a href="https://linkedin.com/in/sivanh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/sivanesh-dev" target="_blank">
+  <a href="https://github.com/sivanh1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-sivanesh--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
