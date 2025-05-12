@@ -58,19 +58,6 @@
 
 ---
 
-<!-- Achievements -->
-<div align="center" style="background: #fff8f8; padding: 30px; border-radius: 10px;">
-  <h2 style="color: #FF6E6E;">🏆 Achievements</h2>
-  <ul style="text-align: left; display: inline-block; line-height: 1.8;">
-    <li>✅ Built 10+ apps using React Native with real-world deployments</li>
-    <li>📈 Grew GitHub repo stars by 500% in 2024 alone</li>
-    <li>🎤 Speaker at tech meetups & campus conferences on React Native</li>
-    <li>✨ Designed UI kits for developers with 1k+ downloads</li>
-  </ul>
-</div>
-
----
-
 <!-- GitHub Stats -->
 <h2 align="center" style="color:#6c63ff;">📊 GitHub Stats</h2>
 <p align="center">
