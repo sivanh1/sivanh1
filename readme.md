@@ -71,9 +71,6 @@
 
 
 <!-- Quote Section -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
 
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
 
