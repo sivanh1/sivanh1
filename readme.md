@@ -68,18 +68,7 @@
 
 ---
 
-<!-- Fun Facts -->
-<div align="center" style="background: #e6f7ff; padding: 30px; border-radius: 10px;">
-  <h2 style="color: #3b82f6;">✨ Fun Facts</h2>
-  <ul style="text-align: left; display: inline-block; line-height: 1.8;">
-    <li>🎧 Music + Coding = Productivity boost</li>
-    <li>☕ Runs on coffee and deadlines</li>
-    <li>🧠 Brainstorming side projects is my kind of fun</li>
-    <li>✍️ Sketches wireframes before touching the code</li>
-  </ul>
-</div>
 
----
 
 <!-- Quote Section -->
 <p align="center">
