@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivanesh-dev&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sivanh1&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sivanh1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sivanesh--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-sivanh1-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
