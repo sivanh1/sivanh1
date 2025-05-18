@@ -75,3 +75,11 @@
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
 
 <p align="center">✨ Thanks for visiting! Keep building amazing things! ✨</p>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+"The best way to predict the future is to create it."
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%">
+</div>
