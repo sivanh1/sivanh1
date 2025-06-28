@@ -1,107 +1,81 @@
-
-<!-- Sivanesh's README | Code Meets Creativity -->
-
-<!-- Creative Title Section -->
-<h1 align="center" style="font-size: 3rem; color: #9F6EFF; font-weight: bold;">
-  👋 Hey there, I'm Sivanesh!
+<h1 align="center" style="color:#a259ff; font-size:2.5rem;">
+  👋 Hi, I'm Sivanesh!
 </h1>
-<h3 align="center" style="color: #50D9FF; font-weight: normal;">
-  React Native Wizard 🧙‍♂️ & UI Crafter 🎨<br>
-  Turning ☕ Coffee & Ideas 🚀 into Beautiful Apps
-</h3>
+<p align="center" style="color:#7c3aed; font-size:1.2rem;">
+  React Native Developer · UI/UX Enthusiast · Idea to App Specialist
+</p>
 
-<!-- Gradient Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F6EFF,100:50D9FF&height=60&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=60&section=header" width="100%">
 </p>
 
 <!-- Contact/Connect Badges -->
 <p align="center">
   <a href="https://sivanesh.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sivanesh.web.app-181717?style=for-the-badge&logo=react" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-7c3aed?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:sivanesh384@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Write+Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/sivanh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's+Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sivanh1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sivanh1-24292F?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<!-- Profile Views counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivanh1&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sivanh1&style=flat-square&color=7c3aed" alt="Profile Views" />
 </p>
 
 ---
 
-<!-- 🌟 Meet Sivanesh Section -->
-<div align="center" style="background: linear-gradient(90deg, #f3eaff 0%, #e5f6ff 100%); padding: 32px 20px; border-radius: 16px; box-shadow: 0 2px 12px #ede7f6;">
-  <h2 style="color: #9f6eff; margin-bottom: 18px;">🌟 Where Code Meets Creativity</h2>
-  <ul style="text-align: left; display: inline-block; margin-top: 10px; line-height: 2;">
-    <li>🔭 <b>React Native & React.js Dev</b> — Crafting mobile & web experiences that just feel right.</li>
-    <li>💡 <b>UI/UX Perfectionist</b> — Every pixel, every micro-interaction matters!</li>
-    <li>⚡ <b>Performance Hunter</b> — I love squeezing out buttery smooth performance.</li>
-    <li>🛠 <b>Lifelong Learner</b> — Forever exploring design systems, backends, and new tech.</li>
-    <li>🎨 <b>Designer’s Mind, Dev’s Hands</b> — Sketching in Figma, building in code.</li>
-    <li>☕ <b>Fuel:</b> Coffee + curiosity = awesome products!</li>
-  </ul>
-</div>
+## 🌟 About Me
+
+- 🔭 Building beautiful mobile & web apps with **React Native** and **React.js**
+- 🎨 Love clean design, smooth animations, and great UX
+- 💡 Always exploring new tools, frameworks, and creative ideas
+- ☕ Runs on coffee and curiosity
 
 ---
 
-<!-- 🚀 Tech Stack -->
-<div align="center" style="background: linear-gradient(90deg, #f3f0ff 0%, #e6f0fa 100%); padding: 26px; border-radius: 16px; box-shadow: 0 1px 10px #e3dafc;">
-  <h2 style="color: #9f6eff;">🛠 My Toolkit</h2>
-  <p>
-    <img src="https://img.icons8.com/color/96/react-native.png" alt="React Native" height="45"/>
-    <img src="https://img.icons8.com/color/96/javascript.png" alt="JavaScript" height="45"/>
-    <img src="https://img.icons8.com/color/96/html-5.png" alt="HTML5" height="45"/>
-    <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" height="45"/>
-    <img src="https://img.icons8.com/plasticine/100/react.png" alt="React JS" height="45"/>
-    <img src="https://img.icons8.com/color/96/firebase.png" alt="Firebase" height="45"/>
-    <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" height="45"/>
-    <img src="https://img.icons8.com/color/96/figma.png" alt="Figma" height="45"/>
-  </p>
-  <p><i>...and always exploring what's next.</i></p>
-</div>
+## 🛠 My Tech Toolbox
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+<p align="center"><i>...and always exploring what's next!</i></p>
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<h2 align="center" style="color:#6c63ff;">📊 Coding in Public</h2>
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivanh1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sivanh1&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanh1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- 📝 Fun Quote & Footer -->
-<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
-<p align="center"><b>✨ Thanks for dropping by! Let’s keep building magic, one commit at a time! ✨</b></p>
+<p align="center" style="color:#a259ff;">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <br>
-  <b>"The best way to predict the future is to create it."</b>
-  <br>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%">
-</div>
-
----
-
-<!-- 🤝 Let's Collaborate -->
 <p align="center">
-  <b>Got an idea, side project, or just want to geek out about cool UIs?</b>  
-  <br>
-  <b>👋 DM me, email me, or find me on LinkedIn. Always up for a chat!</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%">
+</p>
+
+<p align="center" style="color:#a259ff;">
+  💬 <b>Let’s connect & build something awesome!</b>
 </p>
