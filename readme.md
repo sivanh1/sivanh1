@@ -1,65 +1,78 @@
-<!-- Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sivanesh;React+Native+Developer;Crafting+cool+UIs+%F0%9F%8E%A8;Ideas+into+apps+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
 
+<!-- Sivanesh's README | Code Meets Creativity -->
+
+<!-- Creative Title Section -->
+<h1 align="center" style="font-size: 3rem; color: #9F6EFF; font-weight: bold;">
+  👋 Hey there, I'm Sivanesh!
+</h1>
+<h3 align="center" style="color: #50D9FF; font-weight: normal;">
+  React Native Wizard 🧙‍♂️ & UI Crafter 🎨<br>
+  Turning ☕ Coffee & Ideas 🚀 into Beautiful Apps
+</h3>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F6EFF,100:50D9FF&height=60&section=header" width="100%">
+</p>
+
+<!-- Contact/Connect Badges -->
+<p align="center">
+  <a href="https://sivanesh.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sivanesh.web.app-181717?style=for-the-badge&logo=react" alt="Portfolio" />
+  </a>
+  <a href="mailto:sivanesh384@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Write+Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/sivanh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's+Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sivanh1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sivanh1-24292F?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Profile Views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sivanh1&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-<!-- Contact Buttons -->
-<p align="center">
-  <a href="https://sivanesh.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sivanesh.web.app-black?style=for-the-badge&logo=react" alt="Portfolio" />
-  </a>
-  <a href="mailto:sivanesh384@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sivanesh384@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/sivanh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sivanh1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sivanh1-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<!-- About Me -->
-<div align="center" style="background: #f9f8ff; padding: 30px; border-radius: 10px;">
-  <h2 style="color: #9F6EFF;">🚀 About Me</h2>
-  <ul style="text-align: left; display: inline-block; margin-top: 20px; line-height: 1.8;">
-    <li>🔭 Building sleek mobile & web apps using <strong>React Native</strong> and <strong>React.js</strong></li>
-    <li>💡 Passionate about UI/UX, animations, and performance optimization</li>
-    <li>🌱 Constantly learning and diving deeper into <strong>design systems</strong> and <strong>backend integrations</strong></li>
-    <li>🎯 Mission: Transform ideas into clean, elegant, and functional apps</li>
-    <li>🎨 Designer at heart, developer by passion</li>
+<!-- 🌟 Meet Sivanesh Section -->
+<div align="center" style="background: linear-gradient(90deg, #f3eaff 0%, #e5f6ff 100%); padding: 32px 20px; border-radius: 16px; box-shadow: 0 2px 12px #ede7f6;">
+  <h2 style="color: #9f6eff; margin-bottom: 18px;">🌟 Where Code Meets Creativity</h2>
+  <ul style="text-align: left; display: inline-block; margin-top: 10px; line-height: 2;">
+    <li>🔭 <b>React Native & React.js Dev</b> — Crafting mobile & web experiences that just feel right.</li>
+    <li>💡 <b>UI/UX Perfectionist</b> — Every pixel, every micro-interaction matters!</li>
+    <li>⚡ <b>Performance Hunter</b> — I love squeezing out buttery smooth performance.</li>
+    <li>🛠 <b>Lifelong Learner</b> — Forever exploring design systems, backends, and new tech.</li>
+    <li>🎨 <b>Designer’s Mind, Dev’s Hands</b> — Sketching in Figma, building in code.</li>
+    <li>☕ <b>Fuel:</b> Coffee + curiosity = awesome products!</li>
   </ul>
 </div>
 
 ---
 
-<!-- Tech Stack -->
-<div align="center" style="background: #f3f0ff; padding: 30px; border-radius: 10px;">
-  <h2 style="color: #9F6EFF;">🛠 Tech Stack</h2>
+<!-- 🚀 Tech Stack -->
+<div align="center" style="background: linear-gradient(90deg, #f3f0ff 0%, #e6f0fa 100%); padding: 26px; border-radius: 16px; box-shadow: 0 1px 10px #e3dafc;">
+  <h2 style="color: #9f6eff;">🛠 My Toolkit</h2>
   <p>
-    <img src="https://img.icons8.com/color/96/react-native.png" alt="React Native" />
-    <img src="https://img.icons8.com/color/96/javascript.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/color/96/html-5.png" alt="HTML5" />
-    <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" />
-    <img src="https://img.icons8.com/plasticine/100/react.png" alt="React JS" />
-    <img src="https://img.icons8.com/color/96/firebase.png" alt="Firebase" />
-    <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" />
-    <img src="https://img.icons8.com/color/96/figma.png" alt="Figma" />
+    <img src="https://img.icons8.com/color/96/react-native.png" alt="React Native" height="45"/>
+    <img src="https://img.icons8.com/color/96/javascript.png" alt="JavaScript" height="45"/>
+    <img src="https://img.icons8.com/color/96/html-5.png" alt="HTML5" height="45"/>
+    <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" height="45"/>
+    <img src="https://img.icons8.com/plasticine/100/react.png" alt="React JS" height="45"/>
+    <img src="https://img.icons8.com/color/96/firebase.png" alt="Firebase" height="45"/>
+    <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" height="45"/>
+    <img src="https://img.icons8.com/color/96/figma.png" alt="Figma" height="45"/>
   </p>
+  <p><i>...and always exploring what's next.</i></p>
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center" style="color:#6c63ff;">📊 GitHub Stats</h2>
+<!-- 📊 GitHub Stats -->
+<h2 align="center" style="color:#6c63ff;">📊 Coding in Public</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivanh1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sivanh1&theme=tokyonight" alt="GitHub Streak" />
@@ -68,18 +81,27 @@
 
 ---
 
-
-
-<!-- Quote Section -->
-
+<!-- 📝 Fun Quote & Footer -->
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
+<p align="center"><b>✨ Thanks for dropping by! Let’s keep building magic, one commit at a time! ✨</b></p>
 
-<p align="center">✨ Thanks for visiting! Keep building amazing things! ✨</p>
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-"The best way to predict the future is to create it."
+  <br>
+  <b>"The best way to predict the future is to create it."</b>
+  <br>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%">
 </div>
+
+---
+
+<!-- 🤝 Let's Collaborate -->
+<p align="center">
+  <b>Got an idea, side project, or just want to geek out about cool UIs?</b>  
+  <br>
+  <b>👋 DM me, email me, or find me on LinkedIn. Always up for a chat!</b>
+</p>
