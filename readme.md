@@ -66,6 +66,3 @@ Email: sivanesh384@gmail.com
 <i>"Building practical applications with clean code and meaningful impact."</i>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
-</p>
