@@ -1,81 +1,71 @@
-<h1 align="center" style="color:#a259ff; font-size:2.5rem;">
-  👋 Hi, I'm Sivanesh!
+<h1 align="center" style="font-weight:700; letter-spacing:1px;">
+Sivanesh P
 </h1>
-<p align="center" style="color:#7c3aed; font-size:1.2rem;">
-  React Native Developer · UI/UX Enthusiast · Idea to App Specialist
+
+<p align="center">
+<b>React Native Developer • AI & Data Science Undergraduate • Mobile App Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=60&section=header" width="100%">
-</p>
-
-<!-- Contact/Connect Badges -->
-<p align="center">
-  <a href="https://sivanesh.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Site-7c3aed?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:sivanesh384@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/sivanh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sivanh1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+I build scalable mobile applications and explore AI-powered solutions with a focus on performance, clean architecture, and user experience.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivanh1&style=flat-square&color=7c3aed" alt="Profile Views" />
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=react&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 </p>
 
 ---
 
-## 🌟 About Me
+# 🧑‍💻 Technical Skills
 
-- 🔭 Building beautiful mobile & web apps with **React Native** and **React.js**
-- 🎨 Love clean design, smooth animations, and great UX
-- 💡 Always exploring new tools, frameworks, and creative ideas
-- ☕ Runs on coffee and curiosity
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Frameworks & Technologies
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-## 🛠 My Tech Toolbox
+### AI / Data Science
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native" />
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-<p align="center"><i>...and always exploring what's next!</i></p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivanh1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanh1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-<p align="center" style="color:#a259ff;">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+# 🌐 Connect With Me
+
+Portfolio: https://sivanesh.web.app  
+LinkedIn: https://linkedin.com/in/sivanh  
+GitHub: https://github.com/sivanh1  
+Email: sivanesh384@gmail.com  
+
+---
+
+<p align="center">
+<i>"Building practical applications with clean code and meaningful impact."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%">
-</p>
-
-<p align="center" style="color:#a259ff;">
-  💬 <b>Let’s connect & build something awesome!</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
 </p>
