@@ -19,11 +19,11 @@
 ### ⚙️ Frameworks & Technologies
 `React Native` `React` `Django` `Firebase` `REST API` `Expo` `MySQL`
 
-### 🤖 AI / Data Science
-`Machine Learning` `Pandas` `NumPy` `Matplotlib` `OpenCV`
+### 🤖 AI / Data Science 
+`Machine Learning` `Pandas` `NumPy` `Matplotlib` `OpenCV` `NLP` `PyTorch`
 
 ### 🧰 Tools
-`Git` `VS Code` `Android Studio` `Google Colab`
+`Git` `VS Code` `Android Studio` `Google Colab` `Ollama`
 
 ---
 
